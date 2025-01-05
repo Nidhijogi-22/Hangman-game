@@ -1,16 +1,3 @@
-# # word="hangman"
-# # words_length=7
-# # correct_pos=0
-# # incorrect_pos=0
-# word="hangman"
-# total_attempts=10
-# current_word = ['_', '_', '_', '_', '_', '_', '_'] 
-# user_input=input("Guess the word by entering a letter: ")
-# guessed_letters=str(user_input)
-# attempts_left=10
-
-#replit
-
 import pygame
 import os
 import math
